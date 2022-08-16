@@ -1,4 +1,4 @@
-## Hello friends, I'm Ícaro Almeida. Frontend Ecommerce programmer. Currently, I opted for a technical training in programming, Certified Tech Developer (three-year course) which will start in February 2022 with a focus on Frontend, Backend, Infrastructure and Data Science. I have experience with Front-End programming in HTML, CSS, SCSS, styleSheet, styled Components, JAVASCRIPT, REACT-JS, REACT NATIVE, VUE JS, AXIOS, SWR, GIT, GITHUB, JIRA, KANBAN technologies.
+## Hello friends, I'm Ícaro Almeida. Frontend Ecommerce programmer. Currently, I opted for a technical training in programming, Certified Tech Developer (three-year course) which will start in February 2022 with a focus on Frontend, Backend, Infrastructure and Data Science. I have experience with Front-End programming in HTML, CSS, SCSS, styleSheet, styled Components, JAVASCRIPT, ANGULAR 12+, REACT-JS, REACT NATIVE, VUE JS, AXIOS, SWR, GIT, GITHUB, JIRA, KANBAN technologies.
 <div align="center">
   <a href="https://github.com/icaroregis"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icaroregis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
