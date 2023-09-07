@@ -1,4 +1,4 @@
-## Hello, welcome to my profile,
+## {c:yellow}Hello, welcome to my profile,{/c}
 
 I'm a Fullstack Jr Developer. and I have experience in web and mobile development and building Restful APIs. I worked on some applications with high traffic. I have solid knowledge in functional programming, OOP, HTML, CSS, SCSS, styleSheet, styled Components, GIT, GITHUB, GTILAB, JIRA, KANBAN, AZURE DEVOPS and some Javascript ecosystem stacks: TYPESCRIPT, ANGULAR, REACT-JS, REACT NATIVE, NODE JS, Oracle Integration Cloud - OIC, Oracle Visual Builder Cloud Service - VBCS. Dedication, effort, study, perseverance, leadership are some of my values. I am passionate about technology. I am always looking for professional development and growth.
 
