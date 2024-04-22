@@ -1,6 +1,8 @@
 ## Hello, welcome to my profile,
 
-I'm a Fullstack Jr Developer. and I have experience in web and mobile development and building Restful APIs. I worked on some applications with high traffic. I have solid knowledge in functional programming, OOP, HTML, CSS, SCSS, styleSheet, styled Components, GIT, GITHUB, GTILAB, JIRA, KANBAN, AZURE DEVOPS and some Javascript ecosystem stacks: TYPESCRIPT, ANGULAR, REACT-JS, REACT NATIVE, NODE JS, Oracle Integration Cloud - OIC, Oracle Visual Builder Cloud Service - VBCS. Dedication, effort, study, perseverance, leadership are some of my values. I am passionate about technology. I am always looking for professional development and growth.
+I am a full stack developer (With expertise in Frontend) passionate about technology and innovation, with experience in creating web applications. I develop interfaces with HTML, SCSS, Styled Components, ReactJs, NextJs, Typescript and Vanilla Javascript, and Restful APIs with Node js and Typescript, using relational and NoSQL databases.
+
+I am studying Fullstack technical training at the Rocktseat One programming school, where I learn the best practices and system development methodologies, such as functional programming, HTML, NEXT JS, REACT JS, STYLED COMPONENT, TESTING, among others. Furthermore, I am taking a technical English course at Youth Idiomas, to improve my communication and expand my horizons. Dedication, effort, study, perseverance and leadership are some of my values, which motivate me to always seek professional development and growth.
 
 <div align="center">
   <a href="https://github.com/icaroregis"> 
