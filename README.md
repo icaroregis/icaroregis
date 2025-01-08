@@ -28,8 +28,6 @@ I am a developer with over 4 years and 7 months of experience in the JavaScript 
   <img align="center" alt="Icaro-SCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />     
 </div>
   
-   ##
-  
 <div> 
   <a href="https://www.youtube.com/channel/UCRzdzIugUhW3UYJzs8J3qWA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/icaroregis.almeida/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
