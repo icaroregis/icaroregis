@@ -1,8 +1,6 @@
 ## Hello, welcome to my profile,
 
-I am a full stack developer (With expertise in Frontend) passionate about technology and innovation, with experience in creating web applications. I develop interfaces with HTML, SCSS, Styled Components, ReactJs, NextJs, Typescript and Vanilla Javascript, and Restful APIs with Node js and Typescript, using relational and NoSQL databases.
-
-I am studying Fullstack technical training at the Rocktseat One programming school, where I learn the best practices and system development methodologies, such as functional programming, HTML, NEXT JS, REACT JS, STYLED COMPONENT, TESTING, among others. Furthermore, I am taking a technical English course at Youth Idiomas, to improve my communication and expand my horizons. Dedication, effort, study, perseverance and leadership are some of my values, which motivate me to always seek professional development and growth.
+I am a developer with over 4 years and 7 months of experience in the JavaScript ecosystem, mainly focused on Next.js and NestJS. I have solid experience in both front-end and back-end development. I currently work at a technology company in the healthcare sector, developing an advanced clinical system for analysis laboratories. This testing system is designed to manage and process various tests such as blood, feces, urine, among others. My responsibilities involve both front-end and back-end development, using a variety of modern technologies. In addition, I developed from scratch the financial system of the company where I currently work, contributing significantly to the efficiency and automation of financial processes.
 
 <div align="center">
   <a href="https://github.com/icaroregis"> 
