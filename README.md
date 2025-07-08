@@ -1,6 +1,6 @@
 ## Hello, welcome to my profile,
 
-I am a developer with over 4 years and 7 months of experience in the JavaScript ecosystem, mainly focused on Next.js and NestJS. I have solid experience in both front-end and back-end development. I currently work at a technology company in the healthcare sector, developing an advanced clinical system for analysis laboratories. This testing system is designed to manage and process various tests such as blood, feces, urine, among others. My responsibilities involve both front-end and back-end development, using a variety of modern technologies. In addition, I developed from scratch the financial system of the company where I currently work, contributing significantly to the efficiency and automation of financial processes.
+Fullstack developer with over 5 years of experience in the JavaScript ecosystem, focused on Next.js, NestJS and React Native/Expo. Works on projects involving both front-end (React, React Native, Angular) and back-end (Node.js, NestJS), with solid knowledge of TypeScript, REST APIs and databases (PostgreSQL). Communicative and results-oriented profile, with ease for teamwork and experience in agile methodologies (Scrum/Kanban) and version control (Git).
 
 <div align="center">
   <a href="https://github.com/icaroregis"> 
